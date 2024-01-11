@@ -99,12 +99,11 @@
                                             <ol>
                                                 <?php foreach ($files as $file): ?>
                                                     <li>
-                    <div class="d-flex justify-content-between align-items-center">
-                        <span><?php echo htmlspecialchars($file); ?></span>
-                        <a href="<?php echo $folderPath . $file; ?>" download>Download</a>
-                    </div>
-                </li>
-                                                
+                                                        <div class="d-flex justify-content-between align-items-center">
+                                                            <span><?php echo htmlspecialchars($file); ?></span>
+                                                            <a href="<?php echo $folderPath . $file; ?>" download>Download</a>
+                                                        </div>
+                                                    </li>    
                                                 <?php endforeach; ?>
                                             </ol>
                                         <?php endif; ?>
@@ -115,6 +114,8 @@
                         </div>
                     </div>
                 </div>
+            </div>
+        </div>
 
                 <!-- Footer -->
                 <?php include("components/footer.php") ?>
