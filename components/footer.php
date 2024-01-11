@@ -6,7 +6,7 @@
                 <ul class="list-inline list-inline-dots mb-0">
                   <li class="list-inline-item">
                     Copyright &copy; 2024
-                    <a href="." class="link-secondary">KaPan</a>. All rights
+                    <a href="https://kapan.vercel.app/" class="link-blue">KaPan</a>. All rights
                     reserved.
                   </li>
                 </ul>

@@ -169,7 +169,7 @@
                   <a class="nav-link" href="menulis.php">
                     <span class="nav-link-icon d-md-none d-lg-inline-block"
                       ><!-- Download SVG icon from http://tabler-icons.io/i/home -->
-                      <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-description" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M14 3v4a1 1 0 0 0 1 1h4" /><path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z" /><path d="M9 17h6" /><path d="M9 13h6" /></svg>
+                      <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-type-txt" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M14 3v4a1 1 0 0 0 1 1h4" /><path d="M14 3v4a1 1 0 0 0 1 1h4" /><path d="M16.5 15h3" /><path d="M5 12v-7a2 2 0 0 1 2 -2h7l5 5v4" /><path d="M4.5 15h3" /><path d="M6 15v6" /><path d="M18 15v6" /><path d="M10 15l4 6" /><path d="M10 21l4 -6" /></svg>
                     </span>
                     <span class="nav-link-title"> Menulis File </span>
                   </a>
@@ -180,7 +180,7 @@
                       ><!-- Download SVG icon from http://tabler-icons.io/i/home -->
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
-                        class="icon icon-tabler icon-tabler-files"
+                        class="icon icon-tabler icon-tabler-file-text"
                         width="24"
                         height="24"
                         viewBox="0 0 24 24"
@@ -189,16 +189,15 @@
                         fill="none"
                         stroke-linecap="round"
                         stroke-linejoin="round"
-                      >
-                        <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-                        <path d="M15 3v4a1 1 0 0 0 1 1h4" />
-                        <path
-                          d="M18 17h-7a2 2 0 0 1 -2 -2v-10a2 2 0 0 1 2 -2h4l5 5v7a2 2 0 0 1 -2 2z"
-                        />
-                        <path
-                          d="M16 17v2a2 2 0 0 1 -2 2h-7a2 2 0 0 1 -2 -2v-10a2 2 0 0 1 2 -2h2"
-                        />
-                      </svg>
+                        >
+                        <path stroke="none"
+                        d="M0 0h24v24H0z" fill="none"/>
+                        <path d="M14 3v4a1 1 0 0 0 1 1h4" />
+                        <path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z" />
+                        <path d="M9 9l1 0" />
+                        <path d="M9 13l6 0" />
+                        <path d="M9 17l6 0" />
+                    </svg>
                     </span>
                     <span class="nav-link-title"> Membaca File </span>
                   </a>

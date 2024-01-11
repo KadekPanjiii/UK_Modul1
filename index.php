@@ -34,7 +34,7 @@
             <div class="row row-deck row-cards">
                 <div class="card">
                 <div class="card-body">
-                  <h3 class="card-title">BALI | Cinematic video - <a href="https://youtu.be/zHcr32gRRCs?si=3NfflcBh6Rh7h0J4" target="_blank" class="text-blue">@JustKay</a></h3>
+                  <h3 class="card-title">BALI | Cinematic video - <a href="https://youtu.be/zHcr32gRRCs?si=3NfflcBh6Rh7h0J4" target="_blank" class="link-blue">@JustKay</a></h3>
                     <div class="row align-items-center">       
                       <video style="min-width: 10%; min-height: 100%;" playsinline autoplay muted loop>
                         <source class="h-100" src="components/vid.mp4" type="video/mp4" />
