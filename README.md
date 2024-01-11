@@ -20,7 +20,7 @@ Pastikan Anda telah menginstal:
   
 3. **Open Terminal / Git Bash**
    ```bash
-  php -S localhost:8080
+   php -S localhost:8080
 
 4. **Open Web Browser (Chorme)**
    Ketikan pada halaman web [localhost/8080](https://localhost/8080)
