@@ -33,7 +33,7 @@
             <div class="nav-item d-none d-md-flex me-3">
               <div class="btn-list">
                 <a
-                  href="https://github.com/tabler/tabler"
+                  href="https://github.com/KadekPanjiii/UK_Modul1.git"
                   class="btn"
                   target="_blank"
                   rel="noreferrer"
