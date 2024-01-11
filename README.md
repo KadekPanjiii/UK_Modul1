@@ -11,32 +11,17 @@ Berikut adalah langkah-langkah untuk menjalankan aplikasi ini secara lokal di ko
 Pastikan Anda telah menginstal:
 
 - [PHP](https://www.php.net/)
-- [Composer](https://getcomposer.org/)
-- [Laragon](https://laragon.org/) atau server lokal lainnya
 
 ### Langkah-langkah
 
-1. **Clone Repositori**
+1. **Clone / Download Repositori**
 
-   ```bash
-   git clone https://github.com/KadekPanjiii/UK_Modul1.git
-
-2. **Pindah ke Direktori Proyek**
-   ```bash
-   cd nama-proyek/namafolder
+2. **Extract Folder**
   
-3. **Instal Dependensi**
+3. **Open Terminal / Git Bash**
    ```bash
-   composer install
-  
-4. **Mulai Server Lokal**
-   <br>
-   Start Laragon atau server lokal lainnya, dan pastikan PHP sudah berjalan.
-   
-7. **Jalankan Aplikasi**
-   <br>
-   Buka terminal dan jalankan perintah berikut atau bisa juga dengan mengetikan [localhost/(namafolder)](http://localhost/) pada Chorme jika folder berada di htdocs.
-   ```
-   php -S localhost:8000
+  php -S localhost:8080
 
+4. **Open Web Browser (Chorme)**
+   Ketikan pada halaman web [localhost/8080](https://localhost/8080)
   
