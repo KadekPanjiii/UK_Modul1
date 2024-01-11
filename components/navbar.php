@@ -21,7 +21,7 @@
           >
             <a href=".">
               <img
-                src="assets/static/K.png"
+                src="assets/static/K.svg"
                 width="110"
                 height="32"
                 alt="Tabler"
