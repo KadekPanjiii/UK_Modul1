@@ -62,8 +62,7 @@
     document.addEventListener("DOMContentLoaded", function () {
         function HasilkanOutput() {
             const teks = document.getElementById("teks").value;
-            const ulangiInput = document.getElementById("ulangi");
-            const ulangi = ulangiInput.value;
+            const ulangi = document.getElementById("ulangi").value;
             const outputContainer = document.getElementById("outputContainer");
 
                 // Validasi input tidak boleh kosong

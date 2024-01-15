@@ -116,20 +116,16 @@
               </a>
             </div>
             <div class="nav-item dropdown">
-              <a
-                href="https://kapan.vercel.app/"
-                target="_blank"
-                class="nav-link d-flex lh-1 text-reset p-0"
-              >
-                <span
-                  class="avatar avatar-sm"
-                  style="background-image: url(assets/static/avatars/000f.jpeg)"
-                ></span>
+            <a href="https://kapan.vercel.app/" class="nav-link d-flex lh-1 text-reset p-0" data-bs-toggle="dropdown" aria-label="Open user menu">
+                <span class="avatar avatar-sm" style="background-image: url(assets/static/avatars/000f.jpeg)"></span>
                 <div class="d-none d-xl-block ps-2">
                   <div>Kadek Panji</div>
                   <div class="mt-1 small text-muted">Rekayasa Perangkat Lunak</div>
                 </div>
-              </a>  
+              </a>
+              <div class="dropdown-menu dropdown-menu-end dropdown-menu-arrow">
+                <a href="index.php" class="dropdown-item">Logout</a>
+              </div>
             </div>
           </div>
         </div>
@@ -140,8 +136,8 @@
           <div class="navbar">
             <div class="container-xl">
               <ul class="navbar-nav">
-                <li class="nav-item <?= strpos($url, 'index.php') ? 'active' : '' ?>">
-                  <a class="nav-link" href="index.php">
+                <li class="nav-item <?= strpos($url, 'home.php') ? 'active' : '' ?>">
+                  <a class="nav-link" href="home.php">
                     <span class="nav-link-icon d-md-none d-lg-inline-block"
                       ><!-- Download SVG icon from http://tabler-icons.io/i/home -->
                       <svg
